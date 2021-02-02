@@ -1,3 +1,5 @@
-module.exports = function(_deployer) {
-  // Use deployer to state migration tasks.
+const template = require('./template.sol');
+
+module.exports = function(deployer) {
+  _deployer.deploy(template);
 };
