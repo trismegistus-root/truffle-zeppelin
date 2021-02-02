@@ -15,8 +15,8 @@ During the development of my own smart contracts, I used a number of truffle box
 8. Default branch prepped for Truffle Teams
 
 ## Assumptions  
-1. Assumes Dev has installed Ganache from Truffle Suites
-2. Assumes Dev has no Redux or Drizzle knowledge
-3. Assumes Dev is familiar with ERC20/ERC721 standards from Ethereum Foundation
-4. Assumes Dev plans to build for the Ethereum blockchain (this project is not prepped for Tezos contracts)
-
+1. Dev has installed Ganache from Truffle Suites
+2. Dev has no need for Redux or Drizzle
+3. Dev is familiar with ERC20/ERC721 standards from Ethereum Foundation
+4. Dev plans to build for the Ethereum blockchain (this project is not prepped for Tezos contracts)
+5. Dev has JS(ES6), CSS3, HTML5, and JSX knowledge (functional & class type components)
